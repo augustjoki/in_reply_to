@@ -1,0 +1,7 @@
+A simple AppleScript to open the in_reply_to tweet for the selected tweet in Twitterrific.
+
+Known Issues:
+- Doesn't work for selected tweets of people who have protected updates
+
+Installation:
+- move the scpt file to ~/Library/Scripts/Applications/Twitterrific/
